@@ -1,4 +1,4 @@
-1-first you have to change thw DB_host ip to your ip ,you check ip addr command in ubuntu 
+1-first you have to change thw DB_host ip  in docker-compose file to your ip ,you check ip addr command in ubuntu 
 
 2-then just ./config.sh
 	if you facing some issue in the realted to the ./config.sh file then 
